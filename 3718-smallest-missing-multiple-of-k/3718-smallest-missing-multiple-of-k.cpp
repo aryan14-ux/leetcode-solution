@@ -1,9 +1,9 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-   sort(nums.begin(),nums.end());
+   unordered_set<int> st(nums.begin(),nums.end());
    int multiple =k;
-           while(binary_search(nums.begin(),nums.end(),multiple)){
+           while(st.count(multiple)){
             multiple+=k;
             
 
