@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [1929-concatenation-of-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan14-ux/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -39,9 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
