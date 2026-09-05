@@ -2,20 +2,20 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        for (int i = 0; i < n; i++) {
-
-            int mx = nums[0];
-            for (int j = 0; j < i; j++) {
-                mx = max(mx, nums[j]);
-            }
-            int mn = nums[i];
-            for (int j = i; j < n; j++) {
-                mn = min(mn, nums[j]);
-            }
-            if (mx - mn <= k) {
-                return i;
-            }
+        vector<int> SuffixMin(n);
+        SuffixMin[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            SuffixMin[i] = min(nums[i], SuffixMin[i + 1]);
         }
-        return -1;
+        int mx = nums[0];
+        for (int i = 0; i < n; i++) {
+            mx = max(mx, nums[i]);
+      
+
+        if (mx - SuffixMin[i] <= k) {
+            return i;
+        }
     }
+    return -1;
+}
 };
