@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [1929-concatenation-of-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/aryan14-ux/leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan14-ux/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan14-ux/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/aryan14-ux/leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
