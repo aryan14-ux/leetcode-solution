@@ -1,13 +1,14 @@
 class Solution {
 public:
-    long long solve(long long n, long long x) {
-        if (x > n)
-            return 0;
-
-        return n - x + 1 + solve(n, x * 1000);
-    }
-
     long long countCommas(long long n) {
-        return solve(n, 1000);
+        long long count = 0;
+        long long x = 1000;
+
+        while (x <= n) {
+            count += n - x + 1;
+            x *= 1000;
+        }
+
+        return count;
     }
 };
