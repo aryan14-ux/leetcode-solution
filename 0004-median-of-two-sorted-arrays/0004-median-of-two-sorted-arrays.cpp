@@ -9,7 +9,7 @@ public:
         int low = 0;
         int high = n1;
         while (low <= high) {
-            int cut1 = (low + high) >> 1;
+            int cut1 = (low + high)/2;
             int cut2 = (n1 + n2 + 1) / 2 - cut1;
             int left1 = cut1 == 0 ? INT_MIN : nums1[cut1 - 1];
             int left2 = cut2 == 0 ? INT_MIN : nums2[cut2 - 1];
