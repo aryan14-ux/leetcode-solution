@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/aryan14-ux/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/aryan14-ux/leetcode-solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
