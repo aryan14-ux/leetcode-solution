@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/aryan14-ux/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan14-ux/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan14-ux/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
