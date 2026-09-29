@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan14-ux/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1901-find-a-peak-element-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan14-ux/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -104,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
