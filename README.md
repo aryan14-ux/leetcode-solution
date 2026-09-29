@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/aryan14-ux/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
