@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/aryan14-ux/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan14-ux/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/aryan14-ux/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan14-ux/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
