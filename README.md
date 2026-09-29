@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/aryan14-ux/leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aryan14-ux/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/0344-reverse-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/aryan14-ux/leetcode-solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/aryan14-ux/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -156,9 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aryan14-ux/leetcode-solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aryan14-ux/leetcode-solution/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aryan14-ux/leetcode-solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
