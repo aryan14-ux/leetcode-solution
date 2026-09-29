@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan14-ux/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
@@ -122,10 +123,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
