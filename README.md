@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
 | [1901-find-a-peak-element-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
