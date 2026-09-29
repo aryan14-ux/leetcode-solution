@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 | [1901-find-a-peak-element-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan14-ux/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/aryan14-ux/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan14-ux/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan14-ux/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryan14-ux/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
@@ -115,8 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aryan14-ux/leetcode-solution/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/aryan14-ux/leetcode-solution/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
