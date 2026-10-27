@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan14-ux/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/aryan14-ux/leetcode-solution/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/aryan14-ux/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan14-ux/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0321-create-maximum-number](https://github.com/aryan14-ux/leetcode-solution/tree/master/0321-create-maximum-number) |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aryan14-ux/leetcode-solution/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryan14-ux/leetcode-solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryan14-ux/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
